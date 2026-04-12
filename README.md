@@ -1,2 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/_iCgzE0B)
-# p3_template
+# Project 3 High Fidelity Prototype - Group 35
+
+## Team Members
+- Gagan Cheema (`gcheema`)
+- Sarthak Agarwal (`sagarwa7`)
+- Nafee Siraj (`nafeeahn`)
+- Suryansh Khranger (`skhrange`)
+- Sean Meyers (`smmeyers`)
+
+## Acknowledgements
+- Assisted by Gemini and Claude AI (In development of the prototype)
+
+
